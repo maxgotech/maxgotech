@@ -1,1 +1,1 @@
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/username=maxgotech&exclude_repo=DocumentReportBuilder&show_icons=true&theme=dracula)](https://github.com/maxgotech/github-readme-stats)
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs](https://github-readme-stats.vercel.app/api/top-langs)/username=maxgotech&exclude_repo=DocumentReportBuilder&theme=dracula)](https://github.com/maxgotech/github-readme-stats)
